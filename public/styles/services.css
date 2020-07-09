@@ -1,0 +1,19 @@
+/*********************************
+5. Home
+*********************************/
+
+.home
+{
+    height: 261px !important;
+    margin-top: 0px !important;
+}
+.home_content
+{
+    padding-top: 173px;
+}
+.home_title
+{
+    font-size: 30px;
+    font-weight: 500;
+    color: #F7F71B;
+}
